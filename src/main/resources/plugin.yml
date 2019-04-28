@@ -1,0 +1,4 @@
+name: globalmarketplace
+main: com.youtube.programandominecraft.globalmarketplace.GlobalMarketPlacePlugin
+version: 1.0-SNAPSHOT
+

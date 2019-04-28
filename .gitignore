@@ -1,0 +1,6 @@
+servidores
+.gradle
+.idea
+*.iws
+*.ipr
+build
